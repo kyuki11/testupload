@@ -1,0 +1,4 @@
+1. Buat data base yang sama dengan nama file rapot.sql
+2. Buka file dengan link localhost/(nama fordel)
+3. 	Username:admin
+	password:admin
